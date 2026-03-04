@@ -59,16 +59,6 @@ A pre-trained CNN detects facial landmarks (eyes, nose, mouth, jawline)
 The model generates a 128-dimension face embedding — a unique numerical fingerprint for each face
 Embeddings are compared using Euclidean distance — faces with distance < 0.6 are considered a match
 This approach achieves 99.38% accuracy on the Labeled Faces in the Wild benchmark dataset
-📈 Key Visualisations
-Face Detection with Bounding Boxes
-�
-Load image
-Individual Face Crops
-�
-Load image
-Face Similarity Comparison
-�
-Load image
 🛠️ Skills Demonstrated
 Python OpenCV Computer Vision Deep Learning Face Recognition CNN Embeddings NumPy Matplotlib Pillow Real-Time Processing Google Colab
 📦 Dependencies
